@@ -1,0 +1,3 @@
+markdown:  redcarpet
+baseurl:  /rishabhjindal
+exclude:  ['README.md']
