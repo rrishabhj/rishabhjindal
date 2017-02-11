@@ -1,0 +1,15 @@
+body{color:#f8f8f8;
+  background:#222 url(https://images.pexels.com/photos/296884/pexels-photo-296884.jpeg?dl&fit=crop&w=1920&h=1507) no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  font-family:Ubuntu,sans-serif;padding-top:50px}
+  h1{font-size:5em}
+  h3{width:80%;margin:auto;font-family:Raleway,sans-serif}
+  figure{padding:5%}
+  figcaption{font-family:Raleway,sans-serif;background-color:#f8f8f8;color:#222;font-weight:700}
+  a:active,a:hover,a:link,a:visited{text-decoration:none}
+  .logoImg{max-height:100px}
+  #displayPic{max-height:200px;padding:4px;margin-top:10px;margin-bottom:10px}
+  #about{padding:2%}#contact,#skills{padding:2%;color:#222;background:#f8f8f8}
