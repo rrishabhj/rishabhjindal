@@ -1,2 +1,2 @@
 # rishabhjindal
-My Personal website for bloging.
+My Personal website for portfolio.
